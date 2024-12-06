@@ -1,0 +1,14 @@
+.custom-navbar {
+    background-color: #45496a !important;
+}
+
+.custom-navbar-brand,
+.custom-nav-link,
+.custom-nav-dropdown, 
+.dropdown-toggle{
+    color: #fff !important;
+}
+
+.custom-navbar-brand {
+    font-size: 1.5rem;
+}
